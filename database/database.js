@@ -1,6 +1,8 @@
 const Sequelize = require('sequelize');
 
-const connection = new Sequelize('guiaperguntas', 'pablo', '2107ph', {
+let [banco, usuario, senha] = ['', '', '']
+
+const connection = new Sequelize(banco, usuario, senha, {
     host: 'localhost',
     dialect: 'mysql'
 });

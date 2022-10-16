@@ -90,6 +90,6 @@ app.listen(8080, (error) => {
     if (error) {
         console.log(`Erro ao levantar o servidor: ${error}`)
     } else {
-        console.log("Servidor no ar!!!");
+        console.log("Servidor no ar!!!\nhttp://localhost:8080\n\n");
     }
 });
