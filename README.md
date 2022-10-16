@@ -12,4 +12,4 @@ O mesmo foi criado a partir do curso de `formação-Nodejs` da Udemy.
 
 3. Execute o comando para rodar o sistema: `node index.js`
 
-### NÃO ESQUEÇA DE ALTERAR OS DADOS DO SEU BANCO NO ARQUIVO /database/database.js
+### NÃO ESQUEÇA DE ALTERAR OS DADOS DO SEU BANCO NO ARQUIVO `/database/database.js`
